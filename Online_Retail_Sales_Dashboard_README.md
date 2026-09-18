@@ -230,7 +230,7 @@ Providing an interactive view of sales performance for business decision-making.
 
 # 🖥️ Dashboard Preview
 
-![Online Retail Sales Dashboard](screenshots/dashboard.png)
+![Online Retail Sales Dashboard](Online Retail Dashboard.png)
 
 ---
 
